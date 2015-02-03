@@ -1,2 +1,3 @@
-# api-sails
-A test development api using Sails.js
+# maisquestoes
+
+a [Sails](http://sailsjs.org) application
